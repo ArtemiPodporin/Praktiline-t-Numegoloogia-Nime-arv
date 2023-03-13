@@ -1,5 +1,5 @@
 Mis värvi on taevas? : Sinine
-Mis on 22? :4
+Mis on 2*2? :4
 Millist programmeerimiskeelt me ​​õpime? : Python
 Mis on filmi "Kuritöö ja karistus" peategelase nimi? :Raskolnikov
 Mis on maailma kõrgeim mägi? : Everest
