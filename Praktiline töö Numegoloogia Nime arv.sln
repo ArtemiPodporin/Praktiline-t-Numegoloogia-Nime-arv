@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Praktiline töö Numegoloogia Nime arv", "Praktiline töö Numegoloogia Nime arv\Praktiline töö Numegoloogia Nime arv.pyproj", "{D28E94F7-341C-4F0B-A0D4-C3E2FE8D3E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28E94F7-341C-4F0B-A0D4-C3E2FE8D3E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28E94F7-341C-4F0B-A0D4-C3E2FE8D3E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D22A37-9772-4643-8467-3BCE0AF17C96}
+	EndGlobalSection
+EndGlobal
