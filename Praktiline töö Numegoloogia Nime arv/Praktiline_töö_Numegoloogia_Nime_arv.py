@@ -1,5 +1,12 @@
-from name_number import calculate_name_number
+from tarkvaraarendaja_vastuvõtt import test
 
-name = input('Sisestage oma nimi: ')
-name_number = calculate_name_number(name)
-print(f'Nime "{name}" nimenumber on {name_number}.')
+# запускаем тестирование
+vastuvõetud, eisoobi = test()
+
+# выводим списки принятых и не принятых в консоль
+print("Vastuvõetud:")
+for nimi, punktid in vastuvõetud:
+    print(f"{nimi} ({punktid} punkti)")
+print("\nEi sobi:")
+for nimi in eisoobi:
+    print(nimi)

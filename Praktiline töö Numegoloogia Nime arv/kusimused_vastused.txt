@@ -1,0 +1,5 @@
+Mis on Teie kogemus programmeerimises?:rohkem kui 2 aastat
+Mis on Teie lemmik programmeerimiskeel?:Python
+Mis on OOP?:Objekt-orienteeritud programmeerimine
+Mis on SQL?:Struktureeritud päringukeel
+Mis on Git?:Versioonihaldustarkvara

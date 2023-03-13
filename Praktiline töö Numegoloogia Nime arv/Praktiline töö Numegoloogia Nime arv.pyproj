@@ -21,8 +21,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="name_number.py" />
+    <Compile Include="tarkvaraarendaja_vastuvõtt.py" />
     <Compile Include="Praktiline_töö_Numegoloogia_Nime_arv.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="kusimused_vastused.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
